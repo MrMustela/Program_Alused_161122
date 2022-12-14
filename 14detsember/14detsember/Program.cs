@@ -7,12 +7,15 @@ namespace _14detsember
     {
         static void Main(string[] args)
         {
+            
+            //Start:
+
             Console.Title = "Kuju valimine ja arvutamine";
 
             Console.WriteLine("\n1. Ruut");
             Console.WriteLine("2. Teemant");
             Console.WriteLine("3. Ristkülik");
-            Console.WriteLine("4. Püramiid");
+            Console.WriteLine("4. Kolmnurk");
 
             string shape = Console.ReadLine();
 
@@ -20,22 +23,30 @@ namespace _14detsember
             {
                 case "ruut":
                     
-                Quadrilateral();
-                break;
+                    Quadrilateral();
+                    break;
                 
                 case "teemant":
-
-                Diamond();
-                break;
+                    
+                    Diamond();
+                    break;
 
                 case "ristkülik":
 
+                    Rectangle();
+                    break;
+
                 case "kolmnurk":
+                    
+                    Triangle();
+                    break;
 
                 default:
                     Console.WriteLine("\nVale. Valikut ei tehtud.");
                     break;
             }
+            //Console.ReadKey();
+            //goto Start;
         }
 
         private static void Quadrilateral()
@@ -84,7 +95,7 @@ namespace _14detsember
                 }
                 Console.WriteLine();
             }
-
+            
             count = 1;
             for (int k = 1; k <= diamond - 1; k++)
             {
@@ -96,6 +107,58 @@ namespace _14detsember
                 for (int i = 1; i <= 2 * (diamond - k) - 1; i++)
                 {
                     Console.Write("*");
+                }
+                Console.WriteLine();
+            }
+        }
+
+        private static void Rectangle()
+        {
+            Console.WriteLine("\nSisesta ristküliku kahe külje mõõtühik sentimeetrites");
+
+            double a = double.Parse(Console.ReadLine());
+            double b = double.Parse(Console.ReadLine());
+
+            for (int row = 1; row <= a; row++)
+            {
+                for (int column = 1; column <= b; column++)
+                {
+                    string mark;
+                    if (row == column || row + column <= +1)
+                    {
+                        mark = "*";
+                    }
+                    else
+                    {
+                        mark = "*";
+                    }
+                    Console.Write(mark);
+                }
+                Console.WriteLine();
+            }
+        }
+
+        private static void Triangle()
+        {
+            Console.WriteLine("\nSisesta võrdkülgse kolmnurga külje pikkus sentimeetrites");
+
+            double length = double.Parse(Console.ReadLine());
+           
+            for (int row = 1; row <= length; row++)
+            {
+                for (int column = 1; column <= length * 2 - 1; column++)
+                {
+                    string mark = "";
+
+                    if (row == length)
+                    {
+                        mark = "*";
+                    }
+                    else if(row + column >= length + 1 && column - length + 1 <= row)
+                    {
+                        mark= "*";
+                    }
+                    Console.Write(mark);
                 }
                 Console.WriteLine();
             }
