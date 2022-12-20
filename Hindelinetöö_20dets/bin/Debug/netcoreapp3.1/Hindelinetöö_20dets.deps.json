@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Hindelinetöö_20dets/1.0.0": {
+        "runtime": {
+          "Hindelinetöö_20dets.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hindelinetöö_20dets/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

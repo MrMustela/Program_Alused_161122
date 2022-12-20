@@ -1,0 +1,14 @@
+C:\Users\opilane\source\repos\Hindelinetöö_20dets\bin\Debug\netcoreapp3.1\Hindelinetöö_20dets.exe
+C:\Users\opilane\source\repos\Hindelinetöö_20dets\bin\Debug\netcoreapp3.1\Hindelinetöö_20dets.deps.json
+C:\Users\opilane\source\repos\Hindelinetöö_20dets\bin\Debug\netcoreapp3.1\Hindelinetöö_20dets.runtimeconfig.json
+C:\Users\opilane\source\repos\Hindelinetöö_20dets\bin\Debug\netcoreapp3.1\Hindelinetöö_20dets.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Hindelinetöö_20dets\bin\Debug\netcoreapp3.1\Hindelinetöö_20dets.dll
+C:\Users\opilane\source\repos\Hindelinetöö_20dets\bin\Debug\netcoreapp3.1\Hindelinetöö_20dets.pdb
+C:\Users\opilane\source\repos\Hindelinetöö_20dets\obj\Debug\netcoreapp3.1\Hindelinetöö_20dets.csproj.AssemblyReference.cache
+C:\Users\opilane\source\repos\Hindelinetöö_20dets\obj\Debug\netcoreapp3.1\Hindelinetöö_20dets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\Hindelinetöö_20dets\obj\Debug\netcoreapp3.1\Hindelinetöö_20dets.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Hindelinetöö_20dets\obj\Debug\netcoreapp3.1\Hindelinetöö_20dets.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Hindelinetöö_20dets\obj\Debug\netcoreapp3.1\Hindelinetöö_20dets.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Hindelinetöö_20dets\obj\Debug\netcoreapp3.1\Hindelinetöö_20dets.dll
+C:\Users\opilane\source\repos\Hindelinetöö_20dets\obj\Debug\netcoreapp3.1\Hindelinetöö_20dets.pdb
+C:\Users\opilane\source\repos\Hindelinetöö_20dets\obj\Debug\netcoreapp3.1\Hindelinetöö_20dets.genruntimeconfig.cache
