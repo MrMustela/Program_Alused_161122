@@ -1,0 +1,14 @@
+C:\Users\opilane\source\repos\real11jaanuar\real11jaanuar\bin\Debug\netcoreapp3.1\real11jaanuar.exe
+C:\Users\opilane\source\repos\real11jaanuar\real11jaanuar\bin\Debug\netcoreapp3.1\real11jaanuar.deps.json
+C:\Users\opilane\source\repos\real11jaanuar\real11jaanuar\bin\Debug\netcoreapp3.1\real11jaanuar.runtimeconfig.json
+C:\Users\opilane\source\repos\real11jaanuar\real11jaanuar\bin\Debug\netcoreapp3.1\real11jaanuar.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\real11jaanuar\real11jaanuar\bin\Debug\netcoreapp3.1\real11jaanuar.dll
+C:\Users\opilane\source\repos\real11jaanuar\real11jaanuar\bin\Debug\netcoreapp3.1\real11jaanuar.pdb
+C:\Users\opilane\source\repos\real11jaanuar\real11jaanuar\obj\Debug\netcoreapp3.1\real11jaanuar.csproj.AssemblyReference.cache
+C:\Users\opilane\source\repos\real11jaanuar\real11jaanuar\obj\Debug\netcoreapp3.1\real11jaanuar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\real11jaanuar\real11jaanuar\obj\Debug\netcoreapp3.1\real11jaanuar.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\real11jaanuar\real11jaanuar\obj\Debug\netcoreapp3.1\real11jaanuar.AssemblyInfo.cs
+C:\Users\opilane\source\repos\real11jaanuar\real11jaanuar\obj\Debug\netcoreapp3.1\real11jaanuar.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\real11jaanuar\real11jaanuar\obj\Debug\netcoreapp3.1\real11jaanuar.dll
+C:\Users\opilane\source\repos\real11jaanuar\real11jaanuar\obj\Debug\netcoreapp3.1\real11jaanuar.pdb
+C:\Users\opilane\source\repos\real11jaanuar\real11jaanuar\obj\Debug\netcoreapp3.1\real11jaanuar.genruntimeconfig.cache
