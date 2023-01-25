@@ -1,0 +1,14 @@
+C:\Users\opilane\source\repos\25jaanuar\25jaanuar\bin\Debug\netcoreapp3.1\25jaanuar.exe
+C:\Users\opilane\source\repos\25jaanuar\25jaanuar\bin\Debug\netcoreapp3.1\25jaanuar.deps.json
+C:\Users\opilane\source\repos\25jaanuar\25jaanuar\bin\Debug\netcoreapp3.1\25jaanuar.runtimeconfig.json
+C:\Users\opilane\source\repos\25jaanuar\25jaanuar\bin\Debug\netcoreapp3.1\25jaanuar.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\25jaanuar\25jaanuar\bin\Debug\netcoreapp3.1\25jaanuar.dll
+C:\Users\opilane\source\repos\25jaanuar\25jaanuar\bin\Debug\netcoreapp3.1\25jaanuar.pdb
+C:\Users\opilane\source\repos\25jaanuar\25jaanuar\obj\Debug\netcoreapp3.1\25jaanuar.csproj.AssemblyReference.cache
+C:\Users\opilane\source\repos\25jaanuar\25jaanuar\obj\Debug\netcoreapp3.1\25jaanuar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\25jaanuar\25jaanuar\obj\Debug\netcoreapp3.1\25jaanuar.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\25jaanuar\25jaanuar\obj\Debug\netcoreapp3.1\25jaanuar.AssemblyInfo.cs
+C:\Users\opilane\source\repos\25jaanuar\25jaanuar\obj\Debug\netcoreapp3.1\25jaanuar.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\25jaanuar\25jaanuar\obj\Debug\netcoreapp3.1\25jaanuar.dll
+C:\Users\opilane\source\repos\25jaanuar\25jaanuar\obj\Debug\netcoreapp3.1\25jaanuar.pdb
+C:\Users\opilane\source\repos\25jaanuar\25jaanuar\obj\Debug\netcoreapp3.1\25jaanuar.genruntimeconfig.cache
