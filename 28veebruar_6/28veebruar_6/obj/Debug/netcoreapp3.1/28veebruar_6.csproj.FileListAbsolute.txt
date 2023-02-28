@@ -1,0 +1,14 @@
+C:\Users\opilane\source\repos\28veebruar_6\28veebruar_6\bin\Debug\netcoreapp3.1\28veebruar_6.exe
+C:\Users\opilane\source\repos\28veebruar_6\28veebruar_6\bin\Debug\netcoreapp3.1\28veebruar_6.deps.json
+C:\Users\opilane\source\repos\28veebruar_6\28veebruar_6\bin\Debug\netcoreapp3.1\28veebruar_6.runtimeconfig.json
+C:\Users\opilane\source\repos\28veebruar_6\28veebruar_6\bin\Debug\netcoreapp3.1\28veebruar_6.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\28veebruar_6\28veebruar_6\bin\Debug\netcoreapp3.1\28veebruar_6.dll
+C:\Users\opilane\source\repos\28veebruar_6\28veebruar_6\bin\Debug\netcoreapp3.1\28veebruar_6.pdb
+C:\Users\opilane\source\repos\28veebruar_6\28veebruar_6\obj\Debug\netcoreapp3.1\28veebruar_6.csproj.AssemblyReference.cache
+C:\Users\opilane\source\repos\28veebruar_6\28veebruar_6\obj\Debug\netcoreapp3.1\28veebruar_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\28veebruar_6\28veebruar_6\obj\Debug\netcoreapp3.1\28veebruar_6.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\28veebruar_6\28veebruar_6\obj\Debug\netcoreapp3.1\28veebruar_6.AssemblyInfo.cs
+C:\Users\opilane\source\repos\28veebruar_6\28veebruar_6\obj\Debug\netcoreapp3.1\28veebruar_6.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\28veebruar_6\28veebruar_6\obj\Debug\netcoreapp3.1\28veebruar_6.dll
+C:\Users\opilane\source\repos\28veebruar_6\28veebruar_6\obj\Debug\netcoreapp3.1\28veebruar_6.pdb
+C:\Users\opilane\source\repos\28veebruar_6\28veebruar_6\obj\Debug\netcoreapp3.1\28veebruar_6.genruntimeconfig.cache
