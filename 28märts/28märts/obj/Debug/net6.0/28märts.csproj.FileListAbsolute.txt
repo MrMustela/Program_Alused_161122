@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\28märts\28märts\bin\Debug\net6.0\28märts.exe
+C:\Users\opilane\source\repos\28märts\28märts\bin\Debug\net6.0\28märts.deps.json
+C:\Users\opilane\source\repos\28märts\28märts\bin\Debug\net6.0\28märts.runtimeconfig.json
+C:\Users\opilane\source\repos\28märts\28märts\bin\Debug\net6.0\28märts.dll
+C:\Users\opilane\source\repos\28märts\28märts\bin\Debug\net6.0\28märts.pdb
+C:\Users\opilane\source\repos\28märts\28märts\obj\Debug\net6.0\28märts.csproj.AssemblyReference.cache
+C:\Users\opilane\source\repos\28märts\28märts\obj\Debug\net6.0\28märts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\28märts\28märts\obj\Debug\net6.0\28märts.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\28märts\28märts\obj\Debug\net6.0\28märts.AssemblyInfo.cs
+C:\Users\opilane\source\repos\28märts\28märts\obj\Debug\net6.0\28märts.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\28märts\28märts\obj\Debug\net6.0\28märts.dll
+C:\Users\opilane\source\repos\28märts\28märts\obj\Debug\net6.0\refint\28märts.dll
+C:\Users\opilane\source\repos\28märts\28märts\obj\Debug\net6.0\28märts.pdb
+C:\Users\opilane\source\repos\28märts\28märts\obj\Debug\net6.0\28märts.genruntimeconfig.cache
+C:\Users\opilane\source\repos\28märts\28märts\obj\Debug\net6.0\ref\28märts.dll
