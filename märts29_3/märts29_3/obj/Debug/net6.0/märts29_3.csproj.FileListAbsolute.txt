@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\märts29_3\märts29_3\bin\Debug\net6.0\märts29_3.exe
+C:\Users\opilane\source\repos\märts29_3\märts29_3\bin\Debug\net6.0\märts29_3.deps.json
+C:\Users\opilane\source\repos\märts29_3\märts29_3\bin\Debug\net6.0\märts29_3.runtimeconfig.json
+C:\Users\opilane\source\repos\märts29_3\märts29_3\bin\Debug\net6.0\märts29_3.dll
+C:\Users\opilane\source\repos\märts29_3\märts29_3\bin\Debug\net6.0\märts29_3.pdb
+C:\Users\opilane\source\repos\märts29_3\märts29_3\obj\Debug\net6.0\märts29_3.csproj.AssemblyReference.cache
+C:\Users\opilane\source\repos\märts29_3\märts29_3\obj\Debug\net6.0\märts29_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\märts29_3\märts29_3\obj\Debug\net6.0\märts29_3.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\märts29_3\märts29_3\obj\Debug\net6.0\märts29_3.AssemblyInfo.cs
+C:\Users\opilane\source\repos\märts29_3\märts29_3\obj\Debug\net6.0\märts29_3.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\märts29_3\märts29_3\obj\Debug\net6.0\märts29_3.dll
+C:\Users\opilane\source\repos\märts29_3\märts29_3\obj\Debug\net6.0\refint\märts29_3.dll
+C:\Users\opilane\source\repos\märts29_3\märts29_3\obj\Debug\net6.0\märts29_3.pdb
+C:\Users\opilane\source\repos\märts29_3\märts29_3\obj\Debug\net6.0\märts29_3.genruntimeconfig.cache
+C:\Users\opilane\source\repos\märts29_3\märts29_3\obj\Debug\net6.0\ref\märts29_3.dll
