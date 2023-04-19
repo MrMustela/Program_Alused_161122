@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\19.aprill\bin\Debug\net6.0\19.aprill.exe
+C:\Users\opilane\source\repos\19.aprill\bin\Debug\net6.0\19.aprill.deps.json
+C:\Users\opilane\source\repos\19.aprill\bin\Debug\net6.0\19.aprill.runtimeconfig.json
+C:\Users\opilane\source\repos\19.aprill\bin\Debug\net6.0\19.aprill.dll
+C:\Users\opilane\source\repos\19.aprill\bin\Debug\net6.0\19.aprill.pdb
+C:\Users\opilane\source\repos\19.aprill\obj\Debug\net6.0\19.aprill.csproj.AssemblyReference.cache
+C:\Users\opilane\source\repos\19.aprill\obj\Debug\net6.0\19.aprill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\19.aprill\obj\Debug\net6.0\19.aprill.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\19.aprill\obj\Debug\net6.0\19.aprill.AssemblyInfo.cs
+C:\Users\opilane\source\repos\19.aprill\obj\Debug\net6.0\19.aprill.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\19.aprill\obj\Debug\net6.0\19.aprill.dll
+C:\Users\opilane\source\repos\19.aprill\obj\Debug\net6.0\refint\19.aprill.dll
+C:\Users\opilane\source\repos\19.aprill\obj\Debug\net6.0\19.aprill.pdb
+C:\Users\opilane\source\repos\19.aprill\obj\Debug\net6.0\19.aprill.genruntimeconfig.cache
+C:\Users\opilane\source\repos\19.aprill\obj\Debug\net6.0\ref\19.aprill.dll
