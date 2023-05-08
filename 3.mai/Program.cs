@@ -4,45 +4,86 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Vali:");
-            Console.WriteLine("1. String list");
-            Console.WriteLine("2. Break list ");
-            Console.WriteLine("3. Continue list");
-            Console.WriteLine("4. Dictionary list");
-            string rida = "---------------";
-            int choice = Convert.ToInt32(Console.ReadLine());
-            if (choice == 1)
-            {
-                Console.WriteLine(rida);
-                StringList();
-            }
-            if (choice == 2)
-            {
-                Console.WriteLine(rida);
-                NameList();
-            }
-            if (choice == 3)
-            {
-                Console.WriteLine(rida);
-                ContinueList();
-            }
-            if (choice == 4)
-            {
-                Console.WriteLine(rida);
-                DictionaryList();
-            }
-            if (choice == 21)
-            {
-                Console.WriteLine(rida);
-                NumberList();
-            }
-            if (choice == 42)
-            {
-                Console.WriteLine(rida);
-                NrFour();
-            }
 
+            Console.WriteLine("Valige:");
+            Console.WriteLine("Numbrid (n) või tähed (t)");
+            NOtChoice();
+            //::VALIMINE::
+            //ALGUS
+            static void NOtChoice()
+            {
+                string nOtChoice = Console.ReadLine();
+                if (nOtChoice == "n" || nOtChoice == "N")
+                {
+                    NumChoice();
+                }
+                else if (nOtChoice == "t" || nOtChoice == "T")
+                {
+                    WordChoice();
+                }
+                else
+                {
+                    Console.WriteLine("Error. Midagi läks valesti.");
+                }
+            }
+            //LÕPP
+            //::VALIMINE::
+            
+            //-----------------------------------------
+            
+            //===}NUMBRIDE VALIMINE{===
+            //ALGUS
+            
+            //------------------------
+            //=:Main meetod:=
+            //Beg.
+            static void NumChoice()
+            {
+                Console.WriteLine("Vali:");
+                Console.WriteLine("1. String list");
+                Console.WriteLine("2. Break list ");
+                Console.WriteLine("3. Continue list");
+                Console.WriteLine("4. Dictionary list");
+                
+                string rida = "---------------";
+                int choice = Convert.ToInt32(Console.ReadLine());
+                if (choice == 1)
+                {
+                    Console.WriteLine(rida);
+                    StringList();
+                }
+                if (choice == 2)
+                {
+                    Console.WriteLine(rida);
+                    NameList();
+                }
+                if (choice == 3)
+                {
+                    Console.WriteLine(rida);
+                    ContinueList();
+                }
+                if (choice == 4)
+                {
+                    Console.WriteLine(rida);
+                    DictionaryList();
+                }
+                if (choice == 21)
+                {
+                    Console.WriteLine(rida);
+                    NumberList();
+                }
+                if (choice == 42)
+                {
+                    Console.WriteLine(rida);
+                    NrFour();
+                }
 
+            }
+            //End.
+            //=:Main meetod:=
+            //------------------------
+            //:alam meetod:
+            //Beg.
             static void StringList()
             {
                 List<string> stringList = new List<string>()
@@ -117,8 +158,25 @@
             }
             static void NrFour()
             {
-                Console.WriteLine("!Special!");
+                Console.WriteLine("!Special! Ruudu tegemine.");
+
             }
+            //End.
+            //:alam meetod:
+
+            //LÕPP
+            //===}NUMBRIDE VALIMINE{===
+            //-----------------------------------------
+            //===} {===
+            //ALGUS
+
+            static void WordChoice()
+            {
+                Console.WriteLine("Nothing to see here.");
+            }
+
+
+            //random code (?)
 
             //Console.WriteLine("\n-------------------");
             //int-iga
