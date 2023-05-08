@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\08.mai\bin\Debug\net6.0\08.mai.exe
+C:\Users\opilane\source\repos\08.mai\bin\Debug\net6.0\08.mai.deps.json
+C:\Users\opilane\source\repos\08.mai\bin\Debug\net6.0\08.mai.runtimeconfig.json
+C:\Users\opilane\source\repos\08.mai\bin\Debug\net6.0\08.mai.dll
+C:\Users\opilane\source\repos\08.mai\bin\Debug\net6.0\08.mai.pdb
+C:\Users\opilane\source\repos\08.mai\obj\Debug\net6.0\08.mai.csproj.AssemblyReference.cache
+C:\Users\opilane\source\repos\08.mai\obj\Debug\net6.0\08.mai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\08.mai\obj\Debug\net6.0\08.mai.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\08.mai\obj\Debug\net6.0\08.mai.AssemblyInfo.cs
+C:\Users\opilane\source\repos\08.mai\obj\Debug\net6.0\08.mai.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\08.mai\obj\Debug\net6.0\08.mai.dll
+C:\Users\opilane\source\repos\08.mai\obj\Debug\net6.0\refint\08.mai.dll
+C:\Users\opilane\source\repos\08.mai\obj\Debug\net6.0\08.mai.pdb
+C:\Users\opilane\source\repos\08.mai\obj\Debug\net6.0\08.mai.genruntimeconfig.cache
+C:\Users\opilane\source\repos\08.mai\obj\Debug\net6.0\ref\08.mai.dll
