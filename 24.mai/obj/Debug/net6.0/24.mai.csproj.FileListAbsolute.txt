@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\24.mai\bin\Debug\net6.0\24.mai.exe
+C:\Users\opilane\source\repos\24.mai\bin\Debug\net6.0\24.mai.deps.json
+C:\Users\opilane\source\repos\24.mai\bin\Debug\net6.0\24.mai.runtimeconfig.json
+C:\Users\opilane\source\repos\24.mai\bin\Debug\net6.0\24.mai.dll
+C:\Users\opilane\source\repos\24.mai\bin\Debug\net6.0\24.mai.pdb
+C:\Users\opilane\source\repos\24.mai\obj\Debug\net6.0\24.mai.csproj.AssemblyReference.cache
+C:\Users\opilane\source\repos\24.mai\obj\Debug\net6.0\24.mai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\24.mai\obj\Debug\net6.0\24.mai.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\24.mai\obj\Debug\net6.0\24.mai.AssemblyInfo.cs
+C:\Users\opilane\source\repos\24.mai\obj\Debug\net6.0\24.mai.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\24.mai\obj\Debug\net6.0\24.mai.dll
+C:\Users\opilane\source\repos\24.mai\obj\Debug\net6.0\refint\24.mai.dll
+C:\Users\opilane\source\repos\24.mai\obj\Debug\net6.0\24.mai.pdb
+C:\Users\opilane\source\repos\24.mai\obj\Debug\net6.0\24.mai.genruntimeconfig.cache
+C:\Users\opilane\source\repos\24.mai\obj\Debug\net6.0\ref\24.mai.dll
